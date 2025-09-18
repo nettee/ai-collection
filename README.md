@@ -6,4 +6,4 @@
 
 ### AI 编程技巧
 
-- [YC guide to vibe coding](yc-guide-to-vibe-coding/yc-guide-to-vibe-coding.md) - YC 合伙人 Tom Blomfield 分享的 Vibe Coding 技巧
+- [YC guide to vibe coding](content/yc-guide-to-vibe-coding/yc-guide-to-vibe-coding.md) - YC 合伙人 Tom Blomfield 分享的 Vibe Coding 技巧
