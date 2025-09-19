@@ -3,7 +3,7 @@
 YC 合伙人 Tom Blomfield 分享的 Vibe Coding 技巧。
 
 > * 原文链接：https://www.youtube.com/watch?v=BJjsfNO5JTo
-> * 译文与解析：可前往我的公众号文章阅读
+> * 译文与解析：可前往我的[公众号文章](https://mp.weixin.qq.com/s/oHLGJZF_pSUAMpNW7yLxBw)阅读
 
 ## Planning process
 
