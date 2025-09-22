@@ -4,6 +4,10 @@
 
 ## 📋 快速导航
 
+### Prompts
+
+- [把「Python 之禅」放到 Claude Code 中](content/zen-of-python-prompt/README.md) - 定义了 Claude Code 开发规范的 Prompt
+
 ### AI 编程技巧
 
 - [YC 的 Vibe Coding 指南](content/yc-guide-to-vibe-coding/yc-guide-to-vibe-coding.md) - YC 合伙人 Tom Blomfield 分享的 9 个 Vibe Coding 技巧
