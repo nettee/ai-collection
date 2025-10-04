@@ -7,6 +7,7 @@
 ### Prompts
 
 - [把「Python 之禅」放到 Claude Code 中](content/zen-of-python-prompt/README.md) - 定义了 Claude Code 开发规范的 Prompt
+- [评估项目计划](content/prompts/plan-review.md) - 提升 AI 编程的可维护性
 
 ### AI 编程技巧
 
